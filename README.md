@@ -4,16 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-* Hi interested in Github
-* From Basic To Advance
-
-New to Github
-===============
-
-Become Pro in Github
--------------------
+- ⚡ Fun fact: ..
 
 
 ```js
